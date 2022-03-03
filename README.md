@@ -9,8 +9,6 @@ Check it out [here](https://rgee258.github.io/odin-admin-dashboard/).
 This project is done following The Odin Project, which can
 be found [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/lessons/admin-dashboard).
 
-------
-
 ## Resources
 
 The following are used in this project and attributed to:
